@@ -1,11 +1,11 @@
 void setup() {
   // put your setup code here, to run once:
-  pinMode(12, OUTPUT);
-  pinMode(13, OUTPUT);
-  pinMode(11, OUTPUT);
-  pinMode(10,OUTPUT);
-   pinMode(9, OUTPUT);
-  pinMode(8,OUTPUT);
+  pinMode(12, OUTPUT);  //. led 1
+  pinMode(13, OUTPUT);  //. led 2
+  pinMode(11, OUTPUT);  // led 3
+  pinMode(10,OUTPUT);   // led 4
+  pinMode(9, OUTPUT);   // led 5
+  pinMode(8,OUTPUT);    // led 6
 
 
 }
